@@ -32,7 +32,7 @@ In your work directory, use cmake to create an Eclipse project for an [out-of-so
 cd ~/workspace
 mkdir -p Accelerated_C++_4_7_eclipse
 cd Accelerated_C++_4_7_eclipse
-cmake -G "Eclipse CDT4 - Unix Makefiles" -D CMAKE_BUILD_TYPE=Debug -D CMAKE_ECLIPSE_VERSION=4.7.0 -D CMAKE_CXX_COMPILER_ARG1=-std=c++14 ../cpp-boilerplate/Week\ 3/Accelerated_C++_4_7/
+cmake -G "Eclipse CDT4 - Unix Makefiles" -D CMAKE_BUILD_TYPE=Debug -D CMAKE_ECLIPSE_VERSION=4.7.0 -D CMAKE_CXX_COMPILER_ARG1=-std=c++14 ../Accelerated_C++_4_7/
 ```
 
 ## Import
