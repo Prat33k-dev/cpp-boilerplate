@@ -12,13 +12,13 @@
 
 #include <iostream>
 
-/**
+/**osition)
  *   @brief  Returns the position of string in the text
  *   @param  stringToFind is string to be searched in the text
  *   @return start position of string in text as int
  */
 int pos(std::string givenStr, std::string stringToFind) {
-  int position = givenStr.find(position);
+  int position = givenStr.find(stringToFind);
   return position;
 }
 /**
