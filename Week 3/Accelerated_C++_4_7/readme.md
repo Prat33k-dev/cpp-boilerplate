@@ -6,7 +6,7 @@ C++ project to calculate average of numbers.
 
 ## Standard install via command-line
 ```
-git clone -b pratik_bhujbal_117555295_week3 https://github.com/Prat33k-dev/cpp-boilerplate.git
+git clone -b pratik_bhujbal_117555295 https://github.com/Prat33k-dev/cpp-boilerplate.git
 cd <path to repository>/Week\ 3/Accelerated_C++_4_7/
 mkdir build
 cd build
@@ -23,7 +23,7 @@ In your Eclipse workspace directory (or create a new one), checkout the repo (an
 ```
 mkdir -p ~/workspace
 cd ~/workspace
-git clone -b pratik_bhujbal_117555295_week3 https://github.com/Prat33k-dev/cpp-boilerplate.git
+git clone -b pratik_bhujbal_117555295 https://github.com/Prat33k-dev/cpp-boilerplate.git
 ```
 
 In your work directory, use cmake to create an Eclipse project for an [out-of-source build] of Accelerated_C++_4_7

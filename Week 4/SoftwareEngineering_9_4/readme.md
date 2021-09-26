@@ -1,18 +1,18 @@
-# Accelerated C++ 4-5
+# Software Engineering 9-4
 
 ## Overview
 
-C++ project to read words from an input stream and stores them in a vector . It also prints the total number of words entered and the frequency of each word.
+Project that that returns the position of the beginning of a given string in a given text
 
 ## Standard install via command-line
 ```
 git clone -b pratik_bhujbal_117555295 https://github.com/Prat33k-dev/cpp-boilerplate.git
-cd <path to repository>/Week\ 3/Accelerated_C++_4_5/
+cd <path to repository>/Week\ 4/SoftwareEngineering_9_4/
 mkdir build
 cd build
 cmake ..
 make
-Run program: ./app/Accelerated_C++_4_5
+Run program: ./app/SoftwareEngineering_9_4
 ```
 
 ## Working with Eclipse IDE ##
@@ -26,19 +26,19 @@ cd ~/workspace
 git clone -b pratik_bhujbal_117555295 https://github.com/Prat33k-dev/cpp-boilerplate.git
 ```
 
-In your work directory, use cmake to create an Eclipse project for an [out-of-source build] of Accelerated_C++_4_5
+In your work directory, use cmake to create an Eclipse project for an [out-of-source build] of SoftwareEngineering_9_4
 
 ```
 cd ~/workspace
-mkdir -p Accelerated_C++_4_5_eclipse
-cd Accelerated_C++_4_5_eclipse
-cmake -G "Eclipse CDT4 - Unix Makefiles" -D CMAKE_BUILD_TYPE=Debug -D CMAKE_ECLIPSE_VERSION=4.7.0 -D CMAKE_CXX_COMPILER_ARG1=-std=c++14 ../Accelerated_C++_4_5/
+mkdir -p SoftwareEngineering_9_4_eclipse
+cd SoftwareEngineering_9_4_eclipse
+cmake -G "Eclipse CDT4 - Unix Makefiles" -D CMAKE_BUILD_TYPE=Debug -D CMAKE_ECLIPSE_VERSION=4.7.0 -D CMAKE_CXX_COMPILER_ARG1=-std=c++14 ../SoftwareEngineering_9_4/
 ```
 
 ## Import
 
 Open Eclipse, go to File -> Import -> General -> Existing Projects into Workspace -> 
-Select "Accelerated_C++_4_5_eclipse" directory created previously as root directory -> Finish
+Select "SoftwareEngineering_9_4_eclipse" directory created previously as root directory -> Finish
 
 # Edit
 
@@ -47,15 +47,15 @@ Source files may be edited under the "[Source Directory]" label in the Project E
 
 ## Build
 
-To build the project, in Eclipse, unfold Accelerated_C++_4_5_eclipse project in Project Explorer,
+To build the project, in Eclipse, unfold SoftwareEngineering_9_4_eclipse project in Project Explorer,
 unfold Build Targets, double click on "all" to build all projects.
 
 ## Run
 
-1. In Eclipse, right click on the Accelerated_C++_4_5_eclipse in Project Explorer,
+1. In Eclipse, right click on the SoftwareEngineering_9_4_eclipse in Project Explorer,
 select Run As -> Local C/C++ Application
 
-2. Choose the **Accelerated_C++_4_5** binary to run
+2. Choose the **SoftwareEngineering_9_4** binary to run
 
 
 ## Debug
@@ -64,8 +64,8 @@ select Run As -> Local C/C++ Application
 1. Set breakpoint in source file (i.e. double click in the left margin on the line you want 
 the program to break).
 
-2. In Eclipse, right click on the Accelerated_C++_4_5_eclipse in Project Explorer, select Debug As -> 
-Local C/C++ Application, choose the **Accelerated_C++_4_5** binary to run.
+2. In Eclipse, right click on the SoftwareEngineering_9_4_eclipse in Project Explorer, select Debug As -> 
+Local C/C++ Application, choose the **SoftwareEngineering_9_4** binary to run.
 
 3. If prompt to "Confirm Perspective Switch", select yes.
 
