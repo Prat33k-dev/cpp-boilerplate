@@ -7,6 +7,7 @@ The folder contains solution source files for the following programming exercise
 - Accelerated C++ exercise 6-9
 - Software Engineering exercise 3.10
 
+
 And written responses (week_3.pdf) for :
 - Software Engineering 3.13
 - Software Engineering 3.14
