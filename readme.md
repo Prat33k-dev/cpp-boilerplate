@@ -1,5 +1,5 @@
 # C++ Boilerplate
-[![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://app.travis-ci.com/Prat33k-dev/cpp-boilerplate)
+[![Build Status](https://travis-ci.org/Prat33k-dev/cpp-boilerplate.svg?branch=master)](https://app.travis-ci.com/Prat33k-dev/cpp-boilerplate)
 [![Coverage Status](https://coveralls.io/repos/github/Prat33k-dev/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/Prat33k-dev/cpp-boilerplate?branch=master)
 ---
 
