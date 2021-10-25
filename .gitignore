@@ -9,3 +9,9 @@ build/
 
 # Python
 *.pyc
+
+# Visual Studio Files
+.vscode/
+
+# Cmake Build Debug Folder
+cmake-build-debug/

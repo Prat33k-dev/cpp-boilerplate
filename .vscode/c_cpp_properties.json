@@ -1,33 +1,17 @@
 {
     "configurations": [
         {
-            "name": "Mac",
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
             "includePath": [
-                "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1",
-                "${workspaceRoot}/vendor/gtest/include",
-                "${workspaceRoot}/vendor/boost",
-                "/usr/include"
+                "/opt/ros/melodic/include/**",
+                "/usr/include/**"
             ],
-            "browse" : {
-                "limitSymbolsToIncludedHeaders" : true,
-                "databaseFilename" : ""
-            }
-        },
-        {
-            "name": "Linux",
-            "includePath": ["/usr/include"],
-            "browse" : {
-                "limitSymbolsToIncludedHeaders" : true,
-                "databaseFilename" : ""
-            }
-        },
-        {
-            "name": "Win32",
-            "includePath": ["c:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include"],
-            "browse" : {
-                "limitSymbolsToIncludedHeaders" : true,
-                "databaseFilename" : ""
-            }
+            "name": "ROS",
+            "configurationProvider": "ms-vscode.cmake-tools"
         }
-    ]
+    ],
+    "version": 4
 }
